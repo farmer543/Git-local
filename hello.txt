@@ -1,8 +1,0 @@
-hello git!!love
-hello git!!wfy
-<<<<<<< HEAD
-hello git!!wfy
-hello git!!master-test
-hello git!!
-hello git!!master-text
-hello git!!hot-test0
